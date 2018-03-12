@@ -1,0 +1,725 @@
+Python 3.6.0 |Continuum Analytics, Inc.| (default, Dec 23 2016, 11:57:41) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+== RESTART: C:\Users\Ashish Joshi\Desktop\UMD\656\Project\Final Version.py ==
+---------------------------------------------------
+Statistics at  2.0  minutes are:
+Number of call attempts not counting retries:  204
+Number of call attempts including retries:  526
+Number of dropped calls:  0
+Number of blocked calls due to signal strength:  154
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  29
+Number of calls in progress:  15
+Number of failed calls (blocks + drops):  154
+Current cell radius(km):  7.85739328744
+Current Pilot EIRP is:  37.5
+---------------------------------------------------
+Statistics at  4.0  minutes are:
+Number of call attempts not counting retries:  407
+Number of call attempts including retries:  1057
+Number of dropped calls:  7
+Number of blocked calls due to signal strength:  311
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  63
+Number of calls in progress:  15
+Number of failed calls (blocks + drops):  318
+Current cell radius(km):  8.72249677631
+Current Pilot EIRP is:  34.5
+---------------------------------------------------
+Statistics at  6.0  minutes are:
+Number of call attempts not counting retries:  600
+Number of call attempts including retries:  1572
+Number of dropped calls:  13
+Number of blocked calls due to signal strength:  468
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  97
+Number of calls in progress:  19
+Number of failed calls (blocks + drops):  481
+Current cell radius(km):  8.93096020355
+Current Pilot EIRP is:  52.0
+---------------------------------------------------
+Statistics at  8.0  minutes are:
+Number of call attempts not counting retries:  777
+Number of call attempts including retries:  2048
+Number of dropped calls:  14
+Number of blocked calls due to signal strength:  610
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  131
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  624
+Current cell radius(km):  6.41798671329
+Current Pilot EIRP is:  43.5
+---------------------------------------------------
+Statistics at  10.0  minutes are:
+Number of call attempts not counting retries:  968
+Number of call attempts including retries:  2554
+Number of dropped calls:  18
+Number of blocked calls due to signal strength:  761
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  169
+Number of calls in progress:  18
+Number of failed calls (blocks + drops):  779
+Current cell radius(km):  8.48140397493
+Current Pilot EIRP is:  49.5
+---------------------------------------------------
+Statistics at  12.0  minutes are:
+Number of call attempts not counting retries:  1148
+Number of call attempts including retries:  3005
+Number of dropped calls:  21
+Number of blocked calls due to signal strength:  892
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  210
+Number of calls in progress:  21
+Number of failed calls (blocks + drops):  913
+Current cell radius(km):  5.66481169971
+Current Pilot EIRP is:  35.0
+---------------------------------------------------
+Statistics at  14.0  minutes are:
+Number of call attempts not counting retries:  1361
+Number of call attempts including retries:  3588
+Number of dropped calls:  21
+Number of blocked calls due to signal strength:  1074
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  240
+Number of calls in progress:  22
+Number of failed calls (blocks + drops):  1095
+Current cell radius(km):  7.84786809697
+Current Pilot EIRP is:  38.0
+---------------------------------------------------
+Statistics at  16.0  minutes are:
+Number of call attempts not counting retries:  1550
+Number of call attempts including retries:  4123
+Number of dropped calls:  21
+Number of blocked calls due to signal strength:  1245
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  269
+Number of calls in progress:  10
+Number of failed calls (blocks + drops):  1266
+Current cell radius(km):  6.46221548443
+Current Pilot EIRP is:  42.5
+---------------------------------------------------
+Statistics at  18.0  minutes are:
+Number of call attempts not counting retries:  1733
+Number of call attempts including retries:  4588
+Number of dropped calls:  23
+Number of blocked calls due to signal strength:  1380
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  310
+Number of calls in progress:  17
+Number of failed calls (blocks + drops):  1403
+Current cell radius(km):  7.17914327601
+Current Pilot EIRP is:  37.5
+---------------------------------------------------
+Statistics at  20.0  minutes are:
+Number of call attempts not counting retries:  1929
+Number of call attempts including retries:  5123
+Number of dropped calls:  23
+Number of blocked calls due to signal strength:  1548
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  346
+Number of calls in progress:  12
+Number of failed calls (blocks + drops):  1571
+Current cell radius(km):  4.63247662381
+Current Pilot EIRP is:  37.0
+---------------------------------------------------
+Statistics at  22.0  minutes are:
+Number of call attempts not counting retries:  2113
+Number of call attempts including retries:  5596
+Number of dropped calls:  23
+Number of blocked calls due to signal strength:  1684
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  387
+Number of calls in progress:  15
+Number of failed calls (blocks + drops):  1707
+Current cell radius(km):  5.1418066645
+Current Pilot EIRP is:  47.0
+---------------------------------------------------
+Statistics at  24.0  minutes are:
+Number of call attempts not counting retries:  2337
+Number of call attempts including retries:  6218
+Number of dropped calls:  23
+Number of blocked calls due to signal strength:  1877
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  421
+Number of calls in progress:  13
+Number of failed calls (blocks + drops):  1900
+Current cell radius(km):  6.30920073249
+Current Pilot EIRP is:  35.0
+---------------------------------------------------
+Statistics at  26.0  minutes are:
+Number of call attempts not counting retries:  2540
+Number of call attempts including retries:  6778
+Number of dropped calls:  23
+Number of blocked calls due to signal strength:  2050
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  453
+Number of calls in progress:  10
+Number of failed calls (blocks + drops):  2073
+Current cell radius(km):  6.30073238621
+Current Pilot EIRP is:  40.0
+---------------------------------------------------
+Statistics at  28.0  minutes are:
+Number of call attempts not counting retries:  2732
+Number of call attempts including retries:  7291
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  2205
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  484
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  2229
+Current cell radius(km):  6.10629662391
+Current Pilot EIRP is:  45.5
+---------------------------------------------------
+Statistics at  30.0  minutes are:
+Number of call attempts not counting retries:  2928
+Number of call attempts including retries:  7831
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  2373
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  510
+Number of calls in progress:  18
+Number of failed calls (blocks + drops):  2397
+Current cell radius(km):  6.33787601468
+Current Pilot EIRP is:  47.0
+---------------------------------------------------
+Statistics at  32.0  minutes are:
+Number of call attempts not counting retries:  3123
+Number of call attempts including retries:  8355
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  2531
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  543
+Number of calls in progress:  18
+Number of failed calls (blocks + drops):  2555
+Current cell radius(km):  6.33787601468
+Current Pilot EIRP is:  35.5
+---------------------------------------------------
+Statistics at  34.0  minutes are:
+Number of call attempts not counting retries:  3333
+Number of call attempts including retries:  8907
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  2703
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  585
+Number of calls in progress:  17
+Number of failed calls (blocks + drops):  2727
+Current cell radius(km):  5.27821211902
+Current Pilot EIRP is:  44.0
+---------------------------------------------------
+Statistics at  36.0  minutes are:
+Number of call attempts not counting retries:  3528
+Number of call attempts including retries:  9445
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  2867
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  620
+Number of calls in progress:  15
+Number of failed calls (blocks + drops):  2891
+Current cell radius(km):  4.38134646435
+Current Pilot EIRP is:  45.5
+---------------------------------------------------
+Statistics at  38.0  minutes are:
+Number of call attempts not counting retries:  3716
+Number of call attempts including retries:  9945
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  3021
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  644
+Number of calls in progress:  20
+Number of failed calls (blocks + drops):  3045
+Current cell radius(km):  6.50840843786
+Current Pilot EIRP is:  45.0
+---------------------------------------------------
+Statistics at  40.0  minutes are:
+Number of call attempts not counting retries:  3907
+Number of call attempts including retries:  10445
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  3173
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  680
+Number of calls in progress:  25
+Number of failed calls (blocks + drops):  3197
+Current cell radius(km):  5.40099980137
+Current Pilot EIRP is:  45.0
+---------------------------------------------------
+Statistics at  42.0  minutes are:
+Number of call attempts not counting retries:  4083
+Number of call attempts including retries:  10897
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  3306
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  725
+Number of calls in progress:  20
+Number of failed calls (blocks + drops):  3330
+Current cell radius(km):  6.88742514626
+Current Pilot EIRP is:  38.5
+---------------------------------------------------
+Statistics at  44.0  minutes are:
+Number of call attempts not counting retries:  4264
+Number of call attempts including retries:  11353
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  3435
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  775
+Number of calls in progress:  24
+Number of failed calls (blocks + drops):  3459
+Current cell radius(km):  7.03170017642
+Current Pilot EIRP is:  42.5
+---------------------------------------------------
+Statistics at  46.0  minutes are:
+Number of call attempts not counting retries:  4441
+Number of call attempts including retries:  11831
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  3584
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  808
+Number of calls in progress:  21
+Number of failed calls (blocks + drops):  3608
+Current cell radius(km):  6.54600780898
+Current Pilot EIRP is:  41.5
+---------------------------------------------------
+Statistics at  48.0  minutes are:
+Number of call attempts not counting retries:  4627
+Number of call attempts including retries:  12352
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  3749
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  833
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  3773
+Current cell radius(km):  4.64967658127
+Current Pilot EIRP is:  39.5
+---------------------------------------------------
+Statistics at  50.0  minutes are:
+Number of call attempts not counting retries:  4825
+Number of call attempts including retries:  12904
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  3922
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  859
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  3946
+Current cell radius(km):  4.64967658127
+Current Pilot EIRP is:  41.0
+---------------------------------------------------
+Statistics at  52.0  minutes are:
+Number of call attempts not counting retries:  5050
+Number of call attempts including retries:  13507
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  4103
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  892
+Number of calls in progress:  22
+Number of failed calls (blocks + drops):  4127
+Current cell radius(km):  3.40824366001
+Current Pilot EIRP is:  31.5
+---------------------------------------------------
+Statistics at  54.0  minutes are:
+Number of call attempts not counting retries:  5244
+Number of call attempts including retries:  14035
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  4269
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  929
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  4293
+Current cell radius(km):  5.36963402566
+Current Pilot EIRP is:  30.0
+---------------------------------------------------
+Statistics at  56.0  minutes are:
+Number of call attempts not counting retries:  5459
+Number of call attempts including retries:  14624
+Number of dropped calls:  24
+Number of blocked calls due to signal strength:  4445
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  963
+Number of calls in progress:  18
+Number of failed calls (blocks + drops):  4469
+Current cell radius(km):  8.2969052789
+Current Pilot EIRP is:  35.0
+---------------------------------------------------
+Statistics at  58.0  minutes are:
+Number of call attempts not counting retries:  5663
+Number of call attempts including retries:  15171
+Number of dropped calls:  25
+Number of blocked calls due to signal strength:  4610
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1002
+Number of calls in progress:  20
+Number of failed calls (blocks + drops):  4635
+Current cell radius(km):  9.01620073065
+Current Pilot EIRP is:  33.5
+---------------------------------------------------
+Statistics at  60.0  minutes are:
+Number of call attempts not counting retries:  5847
+Number of call attempts including retries:  15667
+Number of dropped calls:  25
+Number of blocked calls due to signal strength:  4762
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1040
+Number of calls in progress:  18
+Number of failed calls (blocks + drops):  4787
+Current cell radius(km):  7.35749655488
+Current Pilot EIRP is:  37.0
+---------------------------------------------------
+Statistics at  62.0  minutes are:
+Number of call attempts not counting retries:  6027
+Number of call attempts including retries:  16149
+Number of dropped calls:  25
+Number of blocked calls due to signal strength:  4907
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1078
+Number of calls in progress:  13
+Number of failed calls (blocks + drops):  4932
+Current cell radius(km):  4.71483131432
+Current Pilot EIRP is:  45.0
+---------------------------------------------------
+Statistics at  64.0  minutes are:
+Number of call attempts not counting retries:  6241
+Number of call attempts including retries:  16735
+Number of dropped calls:  25
+Number of blocked calls due to signal strength:  5086
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1104
+Number of calls in progress:  18
+Number of failed calls (blocks + drops):  5111
+Current cell radius(km):  6.03135181325
+Current Pilot EIRP is:  35.5
+---------------------------------------------------
+Statistics at  66.0  minutes are:
+Number of call attempts not counting retries:  6459
+Number of call attempts including retries:  17333
+Number of dropped calls:  25
+Number of blocked calls due to signal strength:  5272
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1139
+Number of calls in progress:  17
+Number of failed calls (blocks + drops):  5297
+Current cell radius(km):  5.63256294193
+Current Pilot EIRP is:  30.5
+---------------------------------------------------
+Statistics at  68.0  minutes are:
+Number of call attempts not counting retries:  6645
+Number of call attempts including retries:  17825
+Number of dropped calls:  25
+Number of blocked calls due to signal strength:  5421
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1169
+Number of calls in progress:  23
+Number of failed calls (blocks + drops):  5446
+Current cell radius(km):  9.26822746852
+Current Pilot EIRP is:  46.0
+---------------------------------------------------
+Statistics at  70.0  minutes are:
+Number of call attempts not counting retries:  6825
+Number of call attempts including retries:  18332
+Number of dropped calls:  25
+Number of blocked calls due to signal strength:  5586
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1194
+Number of calls in progress:  18
+Number of failed calls (blocks + drops):  5611
+Current cell radius(km):  9.05242084838
+Current Pilot EIRP is:  49.0
+---------------------------------------------------
+Statistics at  72.0  minutes are:
+Number of call attempts not counting retries:  7049
+Number of call attempts including retries:  18940
+Number of dropped calls:  25
+Number of blocked calls due to signal strength:  5769
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1229
+Number of calls in progress:  17
+Number of failed calls (blocks + drops):  5794
+Current cell radius(km):  7.96335362553
+Current Pilot EIRP is:  39.5
+---------------------------------------------------
+Statistics at  74.0  minutes are:
+Number of call attempts not counting retries:  7258
+Number of call attempts including retries:  19517
+Number of dropped calls:  25
+Number of blocked calls due to signal strength:  5946
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1259
+Number of calls in progress:  21
+Number of failed calls (blocks + drops):  5971
+Current cell radius(km):  6.75430897032
+Current Pilot EIRP is:  38.5
+---------------------------------------------------
+Statistics at  76.0  minutes are:
+Number of call attempts not counting retries:  7451
+Number of call attempts including retries:  20055
+Number of dropped calls:  28
+Number of blocked calls due to signal strength:  6111
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1286
+Number of calls in progress:  19
+Number of failed calls (blocks + drops):  6139
+Current cell radius(km):  6.00524263566
+Current Pilot EIRP is:  34.0
+---------------------------------------------------
+Statistics at  78.0  minutes are:
+Number of call attempts not counting retries:  7657
+Number of call attempts including retries:  20607
+Number of dropped calls:  28
+Number of blocked calls due to signal strength:  6281
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1321
+Number of calls in progress:  21
+Number of failed calls (blocks + drops):  6309
+Current cell radius(km):  5.81297875893
+Current Pilot EIRP is:  45.0
+---------------------------------------------------
+Statistics at  80.0  minutes are:
+Number of call attempts not counting retries:  7861
+Number of call attempts including retries:  21149
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  6450
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1354
+Number of calls in progress:  20
+Number of failed calls (blocks + drops):  6479
+Current cell radius(km):  5.27949738067
+Current Pilot EIRP is:  46.0
+---------------------------------------------------
+Statistics at  82.0  minutes are:
+Number of call attempts not counting retries:  8080
+Number of call attempts including retries:  21771
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  6647
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1385
+Number of calls in progress:  15
+Number of failed calls (blocks + drops):  6676
+Current cell radius(km):  4.46913157993
+Current Pilot EIRP is:  39.0
+---------------------------------------------------
+Statistics at  84.0  minutes are:
+Number of call attempts not counting retries:  8270
+Number of call attempts including retries:  22276
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  6799
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1421
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  6828
+Current cell radius(km):  8.30774750199
+Current Pilot EIRP is:  30.0
+---------------------------------------------------
+Statistics at  86.0  minutes are:
+Number of call attempts not counting retries:  8484
+Number of call attempts including retries:  22849
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  6977
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1458
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  7006
+Current cell radius(km):  7.86872122086
+Current Pilot EIRP is:  43.5
+---------------------------------------------------
+Statistics at  88.0  minutes are:
+Number of call attempts not counting retries:  8671
+Number of call attempts including retries:  23349
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  7128
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1495
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  7157
+Current cell radius(km):  5.55121083739
+Current Pilot EIRP is:  30.0
+---------------------------------------------------
+Statistics at  90.0  minutes are:
+Number of call attempts not counting retries:  8859
+Number of call attempts including retries:  23839
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  7271
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1533
+Number of calls in progress:  17
+Number of failed calls (blocks + drops):  7300
+Current cell radius(km):  5.97034061632
+Current Pilot EIRP is:  44.0
+---------------------------------------------------
+Statistics at  92.0  minutes are:
+Number of call attempts not counting retries:  9058
+Number of call attempts including retries:  24348
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  7425
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1576
+Number of calls in progress:  21
+Number of failed calls (blocks + drops):  7454
+Current cell radius(km):  9.41575224415
+Current Pilot EIRP is:  42.5
+---------------------------------------------------
+Statistics at  94.0  minutes are:
+Number of call attempts not counting retries:  9265
+Number of call attempts including retries:  24912
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  7602
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1612
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  7631
+Current cell radius(km):  6.4320260056
+Current Pilot EIRP is:  30.0
+---------------------------------------------------
+Statistics at  96.0  minutes are:
+Number of call attempts not counting retries:  9451
+Number of call attempts including retries:  25430
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  7761
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1642
+Number of calls in progress:  17
+Number of failed calls (blocks + drops):  7790
+Current cell radius(km):  5.36776383133
+Current Pilot EIRP is:  42.5
+---------------------------------------------------
+Statistics at  98.0  minutes are:
+Number of call attempts not counting retries:  9645
+Number of call attempts including retries:  25954
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  7920
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1671
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  7949
+Current cell radius(km):  5.05057658476
+Current Pilot EIRP is:  36.0
+---------------------------------------------------
+Statistics at  100.0  minutes are:
+Number of call attempts not counting retries:  9841
+Number of call attempts including retries:  26514
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  8104
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1690
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  8133
+Current cell radius(km):  4.48708679159
+Current Pilot EIRP is:  34.5
+---------------------------------------------------
+Statistics at  102.0  minutes are:
+Number of call attempts not counting retries:  10052
+Number of call attempts including retries:  27081
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  8280
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1721
+Number of calls in progress:  18
+Number of failed calls (blocks + drops):  8309
+Current cell radius(km):  7.77767340619
+Current Pilot EIRP is:  36.0
+---------------------------------------------------
+Statistics at  104.0  minutes are:
+Number of call attempts not counting retries:  10235
+Number of call attempts including retries:  27570
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  8427
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1758
+Number of calls in progress:  13
+Number of failed calls (blocks + drops):  8456
+Current cell radius(km):  4.88184267344
+Current Pilot EIRP is:  43.0
+---------------------------------------------------
+Statistics at  106.0  minutes are:
+Number of call attempts not counting retries:  10451
+Number of call attempts including retries:  28177
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  8616
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1780
+Number of calls in progress:  19
+Number of failed calls (blocks + drops):  8645
+Current cell radius(km):  5.2705312894
+Current Pilot EIRP is:  44.5
+---------------------------------------------------
+Statistics at  108.0  minutes are:
+Number of call attempts not counting retries:  10632
+Number of call attempts including retries:  28687
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  8779
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1805
+Number of calls in progress:  16
+Number of failed calls (blocks + drops):  8808
+Current cell radius(km):  5.83615298409
+Current Pilot EIRP is:  43.5
+---------------------------------------------------
+Statistics at  110.0  minutes are:
+Number of call attempts not counting retries:  10834
+Number of call attempts including retries:  29235
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  8942
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1835
+Number of calls in progress:  21
+Number of failed calls (blocks + drops):  8971
+Current cell radius(km):  5.83615298409
+Current Pilot EIRP is:  39.0
+---------------------------------------------------
+Statistics at  112.0  minutes are:
+Number of call attempts not counting retries:  11020
+Number of call attempts including retries:  29745
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  9099
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1872
+Number of calls in progress:  13
+Number of failed calls (blocks + drops):  9128
+Current cell radius(km):  6.45412034735
+Current Pilot EIRP is:  33.0
+---------------------------------------------------
+Statistics at  114.0  minutes are:
+Number of call attempts not counting retries:  11221
+Number of call attempts including retries:  30295
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  9270
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1903
+Number of calls in progress:  14
+Number of failed calls (blocks + drops):  9299
+Current cell radius(km):  5.72758521278
+Current Pilot EIRP is:  42.0
+---------------------------------------------------
+Statistics at  116.0  minutes are:
+Number of call attempts not counting retries:  11428
+Number of call attempts including retries:  30849
+Number of dropped calls:  29
+Number of blocked calls due to signal strength:  9443
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1939
+Number of calls in progress:  13
+Number of failed calls (blocks + drops):  9472
+Current cell radius(km):  5.66960214153
+Current Pilot EIRP is:  37.0
+---------------------------------------------------
+Statistics at  118.0  minutes are:
+Number of call attempts not counting retries:  11637
+Number of call attempts including retries:  31400
+Number of dropped calls:  31
+Number of blocked calls due to signal strength:  9609
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  1976
+Number of calls in progress:  13
+Number of failed calls (blocks + drops):  9640
+Current cell radius(km):  5.37148986015
+Current Pilot EIRP is:  35.0
+---------------------------------------------------
+Statistics after 2 hours are:
+Number of call attempts not counting retries:  11850
+Number of call attempts including retries:  31998
+Number of dropped calls:  31
+Number of blocked calls due to signal strength:  9794
+Number of blocked calls due to channel capacity:  0
+Number of successfully completed calls:  2005
+Number of calls in progress:  15
+Number of failed calls (blocks + drops):  9640
+Current cell radius(km):  5.42263689015
+Current Pilot EIRP is:  37.0
+>>> 
